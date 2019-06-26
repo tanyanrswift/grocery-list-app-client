@@ -1,0 +1,23 @@
+.header {
+    padding: 30px;
+    color: darkblue;
+    text-transform: uppercase;
+}
+.welcome-text0 {
+    font-weight:bold;
+    float: center;
+    padding: 10px;
+}
+.welcome-text1 {
+    font-weight: bold;
+    padding: 30px;
+}
+.welcome-text2 {
+    font-weight: bold;
+    padding: 25px;
+}
+.grocery-basket-icon {
+    float: left;
+    padding: 30px;
+    height: 300px;
+}
