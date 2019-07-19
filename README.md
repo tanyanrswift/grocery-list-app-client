@@ -30,3 +30,7 @@ I also think a better approach would have been to work on one component until th
 I think if I had additional time to spend on the project, I would start some of my components from scratch and do a little more planning in order to ensure the code was successful.
 
 I was also having trouble getting the application deployed.
+
+LIVE DEPLOYMENT:
+Client side: https://tanyanrswift-grocery-client.herokuapp.com/ | 
+Server side: https://tanyanrswift-grocery-list-app.herokuapp.com/
